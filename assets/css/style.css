@@ -1,3 +1,14 @@
 body{
   min-height: 1px;
 }
+
+.jadwal{
+  font-family: 'Rubik Vinyl', serif;
+  font-size: 25px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+.col{
+  font-family: 'Lobsterl', serif;
+  font-size: 20px;
+}
